@@ -1,0 +1,11 @@
+PATH,\\atlas2\E\public1\Sales Information\Job Notifications\Job Notification Forms\2022    22625 -,,,
+CLIENT,Florida Power & Light,,,
+CLIENT,KEMCO Industries,,,
+CLIENT,Birmingham Control Systems,,,
+CLIENT,Electrical Power Products,,,
+PRIMARY,RTU,NEMA 12,,
+PRIMARY,IACS,,,
+PRIMARY,SNW Retrofit,,,
+SECONDARY,"NEMA 12,",,9,0
+SECONDARY,Line 1:,Panel,8,5
+SECONDARY,"NEMA 12,",,9,0
